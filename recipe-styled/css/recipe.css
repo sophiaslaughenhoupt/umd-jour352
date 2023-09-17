@@ -1,0 +1,29 @@
+img{
+    width: 700px;
+    display: block;
+    margin: auto;
+}
+
+
+h1{
+    color: forestgreen;
+    font-family: Georgia, serif;
+    text-align: center;
+    font-weight: 600;
+}
+
+#About{
+    border: 3px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+h2{
+    color: forestgreen;
+}
+
+.Tips{
+    border: 3px solid black;
+    text-align: center;
+}
