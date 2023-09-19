@@ -1,0 +1,115 @@
+#wiki{
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
+#source{
+    font-style: italic;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: #A138EB
+
+
+}
+
+#headshot{
+    width: 500px;
+    float: right;
+    margin: auto 5px;
+
+}
+#intro{
+    max-width: 800px;
+
+}
+
+h2{
+    text-decoration: underline;
+    color: #D2A6F1;
+}
+
+#album{
+    width: 350px;
+    float: right;
+    margin: -150px 40px;
+   
+    
+}
+
+#earlylife{
+    max-width: 800px;
+}
+
+#firstalbum{
+    width: 450px;
+}
+
+#beginningstwo{
+    max-width: 800px;
+    float: right;
+}
+
+#fearless{
+    padding: 10px;
+}
+
+#secondalbum{
+   max-width: 5000px;
+    float: right;
+    margin: -30px 5px;
+
+}
+
+#fearlessone{
+    max-width: 900px;
+}
+
+#speaknow{
+    float: left;
+    width: 500px;
+}
+
+#speaknowtwo{
+    float: left;
+    max-width: 900px;
+}
+
+#tour{
+    float: right;
+    max-width: 400px;
+}
+
+#loverone{
+    float: right;
+    max-width: 1000px;
+}
+
+#folklore{
+    float: left;
+    max-width: 360px;
+}
+
+#lovertwo{
+    float: right;
+    max-width: 1000px;
+}
+
+#midnights{
+    float: left;
+
+}
+
+#eras{
+    float: right;
+    max-width: 600px;
+}
+
+#taylorsversion{
+    float: left;
+    max-width: 750px;
+}
+
