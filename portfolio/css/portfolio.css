@@ -1,0 +1,47 @@
+h1{
+    font-family: 'Forum', serif;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+header{
+    background-color: #FAEFEE;
+}
+
+#navigate{
+    font-family:'Nunito Sans', sans-serif;
+    letter-spacing: 3px;
+    text-align: center;
+    
+}
+#headshot {
+    display: block;
+    width: 400px;
+    margin: auto;
+    margin-top: 130px;
+}
+
+#about{
+    margin-top: 150px;
+    font-family: 'Nunito Sans', 'sans-serif';
+    
+
+}
+
+#hello {
+    margin-top: 60px;
+}
+
+
+#bottom{
+    background-color: #FAEFEE;
+}
+
+#socials {
+    max-width: 300px;
+}
+
+#name{
+    font-family: 'Nunito Sans', 'sans-serif';
+    letter-spacing: 1px;
+}
