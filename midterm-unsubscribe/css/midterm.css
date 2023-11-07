@@ -19,7 +19,28 @@ h1{
     text-align: center;
     font-size: 70px;
     
-    
+}
+
+@media (max-width: 1200px ){
+    h1{
+        font-size: 4em;
+    }
+   
+   
+}
+@media (min-width: 768px ){
+    h1{
+        font-size: 800;
+    }
+}
+
+@media (max-width: 768px){
+    h1{
+        font-size: 700;
+    }
+    footer{
+        font-size: 0.85em;
+    }
 }
 
 #subhead{
@@ -42,13 +63,16 @@ h1{
     line-height: 3;
    
 
-
 }
 
 #result{
     font-family: 'Inconsolata', monospace;
     font-weight: 700;
     
+}
+h4{ 
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
 }
 
 #example
@@ -75,7 +99,7 @@ h3{
     line-height: 2;
 }
 
-#vimeo {
+#however {
     text-align: center;
 }
 
@@ -84,6 +108,16 @@ h3{
     line-height: 3;
     font-family: 'Roboto',sans-serif;
 
+}
+
+#vimeo{
+    max-width: 500px;
+}
+
+#carousel{
+    max-width: 700px;
+    display: block;
+    margin: auto;
 }
 h2{
     font-family: 'Inconsolta', monospace;
@@ -95,6 +129,16 @@ blockquote{
     font-weight: 700;
     font-size: 1em;
     color: #DB5461;
+}
+
+footer{
+    font-family: 'Inconsolta', monospace;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+    color: #DB5461; 
 }
 
 
