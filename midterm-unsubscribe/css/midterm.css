@@ -1,0 +1,104 @@
+
+
+
+
+header{
+    background-color: black;
+    font-family:  'Inconsolata', monospace;
+    font-weight: 400; 
+    color: #FCFDFE;
+    text-align: center;
+    min-height: 100vh;
+    line-height: 3;
+    
+}
+
+h1{
+    font-family:  'Inconsolata', monospace;
+    font-weight: 700;
+    text-align: center;
+    font-size: 70px;
+    
+    
+}
+
+#subhead{
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+    font-weight: 500;
+    
+}
+
+#authors{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 300;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+#explain {
+    font-family: 'Roboto', sans-serif;
+    padding: 10px 80px;
+    line-height: 3;
+   
+
+
+}
+
+#result{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    
+}
+
+#example
+{
+    background-color: black;
+    width: 5000px;
+
+}
+
+#research{
+    background-color: black;
+    color: #FCFDFE;
+    min-height: 80vh;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+
+    
+}
+
+h3{
+    font-family: 'Inconsolta', monospace;
+    font-size: 1.5em;
+    line-height: 2;
+}
+
+#vimeo {
+    text-align: center;
+}
+
+#numbers{
+    padding: 10px 80px;
+    line-height: 3;
+    font-family: 'Roboto',sans-serif;
+
+}
+h2{
+    font-family: 'Inconsolta', monospace;
+    font-weight: 700;
+    font-size: 1.75;
+}
+blockquote{
+    font-family: 'Inconsolta', monospace;
+    font-weight: 700;
+    font-size: 1em;
+    color: #DB5461;
+}
+
+
+
+
+
+
