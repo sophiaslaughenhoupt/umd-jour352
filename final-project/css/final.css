@@ -1,0 +1,39 @@
+#credits {
+    font-family:'Roboto', sans-serif;
+    font-weight: 50;
+    font-size: 12px;
+}
+
+h1{ 
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 10;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    padding: 10px 110px;
+    line-height: 2;
+
+}
+
+h3 {
+    font-family: 'Playfair Display', serif;
+    padding: 10px 110px;
+}
+
+#instagram {
+    display: block;
+    margin: auto;
+    max-width: 10px;
+}
+
