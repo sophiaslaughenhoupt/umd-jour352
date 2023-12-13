@@ -43,6 +43,12 @@ h3 {
     max-width: 10px;
 }
 
+@media (max-width: 75%){
+    #eras {
+        padding: 5% 1%;
+    }
+}
+
 footer{
     background-color: black;
     font: 'Roboto', sans-serif;
@@ -61,5 +67,4 @@ a {
     text-decoration: none;
 
 }
-
 
